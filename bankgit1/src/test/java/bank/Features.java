@@ -1,7 +1,7 @@
 package bank;
 
 import java.util.Scanner;
-
+ 
 public class Features {
 	static Scanner sc = new Scanner(System.in);
 	private static String username;

@@ -1,7 +1,7 @@
 package bank;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+ 
 public class NewUserRegistration {
 
 	private static String username;

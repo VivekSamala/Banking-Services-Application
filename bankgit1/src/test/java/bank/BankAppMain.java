@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class BankAppMain {
 	static Scanner sc = new Scanner(System.in);
-
+ 
 	public static void main(String[] args) {
 		System.out.println("********Welcome to Captain Banking Services********\n");
 		// while loop until exit.
